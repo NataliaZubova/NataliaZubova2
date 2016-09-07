@@ -1,0 +1,1 @@
+copy Dostavka3.txt C:\TDC\Dostavka

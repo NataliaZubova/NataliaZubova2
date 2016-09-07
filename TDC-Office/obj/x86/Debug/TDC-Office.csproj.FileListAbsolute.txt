@@ -1,0 +1,61 @@
+c:\users\евгений\documents\visual studio 2010\Projects\TDC-Office\TDC-Office\bin\Debug\TDC-Office.exe
+c:\users\евгений\documents\visual studio 2010\Projects\TDC-Office\TDC-Office\bin\Debug\TDC-Office.pdb
+c:\users\евгений\documents\visual studio 2010\Projects\TDC-Office\TDC-Office\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\евгений\documents\visual studio 2010\Projects\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form1.resources
+c:\users\евгений\documents\visual studio 2010\Projects\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Properties.Resources.resources
+c:\users\евгений\documents\visual studio 2010\Projects\TDC-Office\TDC-Office\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\евгений\documents\visual studio 2010\Projects\TDC-Office\TDC-Office\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\евгений\documents\visual studio 2010\Projects\TDC-Office\TDC-Office\obj\x86\Debug\TDC-Office.exe
+c:\users\евгений\documents\visual studio 2010\Projects\TDC-Office\TDC-Office\obj\x86\Debug\TDC-Office.pdb
+C:\TDC-Office\TDC-Office\obj\x86\Debug\TDC-Office.exe
+C:\TDC-Office\TDC-Office\obj\x86\Debug\TDC-Office.pdb
+C:\TDC-Office\TDC-Office\bin\Debug\TDC-Office.exe
+C:\TDC-Office\TDC-Office\bin\Debug\TDC-Office.pdb
+C:\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form1.resources
+C:\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form2.resources
+C:\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form3.resources
+C:\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Properties.Resources.resources
+C:\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form4.resources
+C:\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form5.resources
+C:\YandexDisk\TDC\2.3 офис остатки идеально работают\TDC-Office\TDC-Office\obj\x86\Debug\TDC-Office.exe
+C:\YandexDisk\TDC\2.3 офис остатки идеально работают\TDC-Office\TDC-Office\obj\x86\Debug\TDC-Office.pdb
+C:\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form6.resources
+C:\YandexDisk\TDC\Офис\3.0\TDC-Office\TDC-Office\obj\x86\Debug\TDC-Office.exe
+C:\YandexDisk\TDC\Офис\3.0\TDC-Office\TDC-Office\obj\x86\Debug\TDC-Office.pdb
+C:\YandexDisk\TDC\Офис\3.0\TDC-Office\TDC-Office\bin\Debug\TDC-Office.exe
+C:\YandexDisk\TDC\Офис\3.0\TDC-Office\TDC-Office\bin\Debug\TDC-Office.pdb
+C:\YandexDisk\TDC\Офис\3.0\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form1.resources
+C:\YandexDisk\TDC\Офис\3.0\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form2.resources
+C:\YandexDisk\TDC\Офис\3.0\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form3.resources
+C:\YandexDisk\TDC\Офис\3.0\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form4.resources
+C:\YandexDisk\TDC\Офис\3.0\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form5.resources
+C:\YandexDisk\TDC\Офис\3.0\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form6.resources
+C:\YandexDisk\TDC\Офис\3.0\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Properties.Resources.resources
+C:\YandexDisk\TDC\Офис\3.0\TDC-Office\TDC-Office\obj\x86\Debug\TDC-Office.csproj.GenerateResource.Cache
+C:\YandexDisk\TDC\Офис\3.0\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form7.resources
+C:\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form7.resources
+C:\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form8.resources
+C:\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form9.resources
+C:\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form10.resources
+C:\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form11.resources
+C:\TDC-Office\TDC-Office\obj\x86\Debug\TDC-Office.csproj.ResolveComReference.cache
+C:\TDC-Office\TDC-Office\obj\x86\Debug\TDC-Office.csproj.GenerateResource.Cache
+F:\Ой, всё 2\TDC-Office\TDC-Office\obj\x86\Debug\TDC-Office.csproj.ResolveComReference.cache
+F:\Ой, всё 2\TDC-Office\TDC-Office\obj\x86\Debug\TDC-Office.exe
+F:\Ой, всё 2\TDC-Office\TDC-Office\obj\x86\Debug\TDC-Office.pdb
+F:\Ой, всё 2\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form1.resources
+F:\Ой, всё 2\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form10.resources
+F:\Ой, всё 2\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form11.resources
+F:\Ой, всё 2\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form2.resources
+F:\Ой, всё 2\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form3.resources
+F:\Ой, всё 2\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form4.resources
+F:\Ой, всё 2\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form5.resources
+F:\Ой, всё 2\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form6.resources
+F:\Ой, всё 2\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form7.resources
+F:\Ой, всё 2\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form8.resources
+F:\Ой, всё 2\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form9.resources
+F:\Ой, всё 2\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Properties.Resources.resources
+F:\Ой, всё 2\TDC-Office\TDC-Office\obj\x86\Debug\TDC-Office.csproj.GenerateResource.Cache
+F:\Ой, всё 2\TDC-Office\TDC-Office\bin\Debug\TDC-Office.exe
+F:\Ой, всё 2\TDC-Office\TDC-Office\bin\Debug\TDC-Office.pdb
+F:\Ой, всё 2\TDC-Office\TDC-Office\obj\x86\Debug\TDC_Office.Form12.resources
